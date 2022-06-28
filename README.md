@@ -1,6 +1,6 @@
 # Writing and Sharing Computational Analyses in Jupyter Notebooks
 
-This repository demonstrates the ["Ten Simple Rules for Reproducible Research in Jupyter Notebook"](https://arxiv.org/abs/1810.08055) rules for a simple machine learning problem and is based on this ["ten-rules-jupyter"](https://github.com/jupyter-guide/ten-rules-jupyter) GitHub repository. It was developed for the [CIML Summer Institute 2021](https://github.com/ciml-org/ciml-summer-institute-2021).
+This repository demonstrates the ["Ten Simple Rules for Reproducible Research in Jupyter Notebook"](https://arxiv.org/abs/1810.08055) rules for a simple machine learning problem and is based on this ["ten-rules-jupyter"](https://github.com/jupyter-guide/ten-rules-jupyter) GitHub repository. It was developed for the [CIML Summer Institute 2021](https://github.com/ciml-org/ciml-summer-institute-2021) and updated for the [CIML Summer Institute 2022](https://github.com/ciml-org/ciml-summer-institute-2022)
 
 The workflow is broken down into four independent steps, with a notebook for each step
 * Create a dataset [1-CreateDataset.ipynb](notebooks/1-CreateDataset.ipynb) 
