@@ -12,8 +12,7 @@ The workflow is broken down into four independent steps, with a notebook for eac
 
 The [MyBinder.org](https://mybinder.org/) service let's you run the notebooks in this repository from your web browser by simply clicking on the launch link (the launch may take a couple of minutes). 
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://github.com/sdsc-hpc-training-org/notebooks-sharing/HEAD?urlpath=lab)
- 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sdsc-hpc-training-org/notebooks-sharing/HEAD)
 
 ## Run Jupyter Lab on a local Machine (Laptop, Desktop)
 ------
