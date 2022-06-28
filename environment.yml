@@ -1,0 +1,15 @@
+name: notebooks-sharing 
+
+channels:
+  - conda-forge
+  - anaconda
+
+dependencies:
+  - python=3.7
+  - jupyterlab=3
+  - pandas=1.2.4
+  - matplotlib=3.4.2
+  - joblib=1.0.1
+  - seaborn=0.11.0
+  - ipywidgets=7.6.2
+  - scikit-learn=0.23.2
