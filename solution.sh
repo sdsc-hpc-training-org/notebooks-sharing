@@ -1,8 +1,8 @@
 #!/bin/bash
 # Batch script to run Jupyter Lab on Expanse CPU node.
 #SBATCH --job-name=notebooks-sharing-batch
-#SBATCH --account=sds184
-#SBATCH --reservation=ciml2022cpu
+#SBATCH --account=gue998
+#SBATCH --reservation=ciml2023cpu
 #SBATCH --partition=shared
 #SBATCH --nodes=1
 #SBATCH --ntasks-per-node=4
